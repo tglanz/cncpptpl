@@ -7,7 +7,8 @@ int main()
 {   
     testFunc1();
 
-    cin.ignore();
+    int n;
+    scanf("%d", n);
 
     return 0;
 }

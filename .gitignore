@@ -1,0 +1,8 @@
+# Outputs
+lib/*
+build/*
+bin/*
+!*/readme.md
+
+.vscode
+.DS_Store

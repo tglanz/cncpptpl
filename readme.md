@@ -1,1 +1,3 @@
-Basic c and cpp template
+## Title
+
+See the documentation [here](./doc/readme.md)

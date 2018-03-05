@@ -1,5 +1,3 @@
-## /doc
+## Documentation
 
-Documentation here
-
-[Building](./build.md)
+- [Building](./building.md)
